@@ -1,11 +1,8 @@
 <p>
-	<span style="line-height:0.5;font-size:10px;">万事屋书签 (ง •̀_•́)ง</span> 
+	<a href="http://qr06.cn/C3tw81"><span style="line-height:0.3;font-size:10px;">2020年4月1日更新丨微信公众号：包哥万事屋丨微信：baoge404</span></a> 
 </p>
 <p>
-	<a href="http://qr06.cn/C3tw81"><span style="line-height:0.5;font-size:10px;">2020年4月1日更新丨微信公众号：包哥万事屋丨微信：baoge404</span></a> 
-</p>
-<p>
-	<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5NDE1MDgzOQ==#wechat_redirect"><span style="line-height:0.5;font-size:10px;">如果书签对你有用，还请帮忙点一下微信公众号文章底部的广告，你的支持就是包哥的动力：）每日有效点一次</span></a> 
+	<a><span style="line-height:0.3;font-size:10px;">微信的朋友点击右上角 [···] 然后选择 [在浏览器中打开]</span></a> 
 </p>
 <p>
 	<br />
@@ -246,4 +243,10 @@
 </p>
 <p>
 	<a href="https://www.7sebook.com/disk"><span style="font-size:14px;line-height:1;">七秒书盘-电子书</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.jiumodiary.com/"><span style="font-size:14px;line-height:1;">鸠摩搜索-电子书</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.shudan.vip/"><span style="font-size:14px;line-height:1;">书单网-电子书</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://kindle.archiew.top/"><span style="font-size:14px;line-height:1;">书舟网-电子书</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.zxcs.info/"><span style="font-size:14px;line-height:1;">知轩藏书-爽文</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.owllook.net/"><span style="font-size:14px;line-height:1;">owllook-爽文</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.biquge5200.com/"><span style="font-size:14px;line-height:1;">笔趣阁-爽文</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.xs8.cn/"><span style="font-size:14px;line-height:1;">言情小说吧-爽文</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.soepub.com/"><span style="font-size:14px;line-height:1;">掌上书苑</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://dianbook.cc/"><span style="font-size:14px;line-height:1;">点书网</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.piqiyuedu.com/"><span style="font-size:14px;line-height:1;">脾气阅读</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://kgbook.com/"><span style="font-size:14px;line-height:1;">苦瓜书盘</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.dududog.com/"><span style="font-size:14px;line-height:1;">读读狗</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.share2uu.com/"><span style="font-size:14px;line-height:1;">分享</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://panghubook.cn/"><span style="font-size:14px;line-height:1;">胖虎书屋</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.haodoo.net/"><span style="font-size:14px;line-height:1;">好讀</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://epubw.com/?__cf_chl_jschl_tk__=ac62ce8f4dd7f141e664cf875a0744a62473a6d8-1585903979-0-AfW51XUMHwJ7wK_8owRNXf4SrgEe3Fqo_ERb9A4Qk87CR6Qlusi2kxkQ-Q1niyQUC-HjazqaocYrR5dm1Fb6TwmMbp8VlnD8cREjXPKBxx8I797H7k4XTdsoilEl7ZNelIEQh3VXkce3sItJAY2TwXcU5YKi7f6X7U07K2k8e1cO2yXA83c00WQC91YjdHZ4vySqDWPjccUmAoEWrwbNYM4cuLcHf9dOs3iPRuvi4EqHG5aoQ2YjcubQ0jxFkeA4WbwjlEbnqoBtyNcXG0yCqo0"><span style="font-size:14px;line-height:1;">ePUBw</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://sobooks.cc/"><span style="font-size:14px;line-height:1;">SoBooks</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="https://www.aibooks.club/"><span style="font-size:14px;line-height:1;">AIBOOKS</span></a><span style="font-size:14px;line-height:1;">丨</span><a href="http://www.xqishuta.com/"><span style="font-size:14px;line-height:1;">奇书网</span></a> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5NDE1MDgzOQ==#wechat_redirect"><span style="line-height:0.3;font-size:10px;">如果书签对你有用，还请帮忙点一下微信公众号文章底部的广告，你的支持就是包哥的动力：）每日有效点一次</span></a> 
 </p>
