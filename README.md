@@ -1,9 +1,5 @@
-<p>
-	<a href="http://qr06.cn/C3tw81"><span style="line-height:0.3;font-size:10px;">2020年4月1日更新丨微信公众号：包哥万事屋丨微信：baoge404</span></a> 
-</p>
-<p>
-	<a><span style="line-height:0.3;font-size:10px;">微信的朋友点击右上角 [···] 然后选择 [在浏览器中打开]</span></a> 
-</p>
+<a><span style="line-height:0.3;font-size:10px;">微信的朋友点击右上角 [···] 然后选择 [在浏览器中打开]</span></a> 
+<a href="http://qr06.cn/C3tw81"><span style="line-height:0.3;font-size:10px;">2020年4月1日更新丨微信公众号：包哥万事屋丨微信：baoge404</span></a> 
 <p>
 	<br />
 </p>
