@@ -38,6 +38,7 @@
 <!-- 爱优腾 -->
 <p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
 	<span style="color:#009900;font-size:10px;">▶&nbsp;</span>手机视频解析APP<br />
+  <a href="https://share.weiyun.com/5uYDnN0">安卓-tita搜索</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
   <a href="https://share.weiyun.com/5gNA4ss">安卓-就爱看影视破解版</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
   <a href="https://share.weiyun.com/5lGSFwC">安卓-简易影视</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
   <a href="https://share.weiyun.com/5cU80DE">安卓-飘花影视</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
