@@ -28,7 +28,8 @@
 <p>
 	<a id="yinshi"></a><span style="color:#009900;font-size:14px;">▼</span>&nbsp;<strong><span style="color:#383838;font-size:14px;">影视资源区丨</span></strong><span style="font-size:10px;"><a href="#top">点击返回顶部</a></span> 
 </p>
-<!-- 影视资源标题 --><a id="yinshi"></a>
+<!-- 影视资源标题 -->
+<span style="color:#009900;font-size:14px;"><a href="https://mp.weixin.qq.com/s?__biz=MzI5NDE1MDgzOQ==&mid=2652119414&idx=1&sn=e0b5d0e19b8a4c0dbea8570940ac159e&chksm=f787b6aec0f03fb868dffc802302d83ef0dfcca231f4b21c22a5db638baa18cbc90152b41f49&token=2059201839&lang=zh_CN#rd">免费观影追剧？包哥教你应付日常99%的看视频需求</a></span>
 <p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
 	<span style="color:#009900;font-size:10px;">▶</span>&nbsp;<span>爱优腾芒等主流视频解析站</span><br/>
 	<a href="https://www.administrator5.com/">无名小站</a>
@@ -192,6 +193,7 @@
 	<a id="yinyue"></a><span style="color:#009900;font-size:14px;">▼</span>&nbsp;<strong><span style="color:#383838;font-size:14px;">音乐资源区丨</span></strong><span style="font-size:10px;"><a href="#top">点击返回顶部</a></span> 
 </p>
 <!-- 音乐资源标题 -->
+<span style="color:#009900;font-size:14px;"><a href="https://mp.weixin.qq.com/s?__biz=MzI5NDE1MDgzOQ==&mid=2652119423&idx=1&sn=b123557abc30bf2c0ae86ac68628e6e3&chksm=f787b6a7c0f03fb1130144f52d2bc6a1fa4a49a505bbe9dead9ff96c0e253ab4e17ae2a8ddfe&token=2059201839&lang=zh_CN#rd">全网免费听音乐？满足你对音乐的所有幻想</a></span>
 <p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
 	<span style="font-size:10px;color:#009900;">▶</span>&nbsp;聚合类听歌软件<br />
   <a href="https://listen1.github.io/listen1/">Listen 1 全平台下载链接</a>
@@ -317,6 +319,23 @@
   <a href="http://www.admflt.com/">阿呆喵-ADM</a>   
 </p>
 <!-- 屏蔽广告 -->
+<p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
+	<span style="color:#009900;font-size:10px;">▶</span>&nbsp;Google Play 谷歌应用商店的apk下载<br />
+  <a href="https://apkdl.in/">apkdl.in</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="http://www.ddung.org/daili/">ddung Glype®代理(被墙中转地址)</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://www.apkturbo.com/">APKcombo</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://sameapk.com/">Same APK</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://apkpure.com/cn/">APK Pure</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps">Google Play</a>   
+</p>
+<!-- Google Play -->
+<p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
+	<span style="color:#009900;font-size:10px;">▶</span>&nbsp;Google Chrome 插件<br />
+  <a href="https://share.weiyun.com/ujPUXBWQ">谷歌访问助手-破解版</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://www.tampermonkey.net/">Tampermonkey • Chrome</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
+  <a href="https://greasyfork.org/zh-CN/scripts/33005-direct-download-from-google-play">Direct download from Google Play</a>
+</p>
+<!-- Google chrome 插件 -->
 <p style="text-align:justify;margin-left:20px;color:#383838;font-size:14px;" align="justify">
 	<span style="color:#009900;font-size:10px;">▶</span>&nbsp;在线收短信验证码<br />
   <a href="https://share.weiyun.com/57HLocj">临时手机验证码-单文件</a>&nbsp;&nbsp;<span style="color:#838383;font-size:10px;">丨</span>&nbsp;&nbsp;
