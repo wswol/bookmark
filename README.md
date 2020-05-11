@@ -1,6 +1,6 @@
 <p style="font-size:10px;color:#383838;">
   <span>微信体验时请点击右上角</span><span style="color:#009900;">[···]</span>，然后选择<span style="color:#009900;">[在浏览器中打开]		</span>。<br />
-  <span style="color:#009900;">2020年4月29日更新</span>丨<span style="color:#838383;">微信公众号：包哥万事屋丨微信baoge404</span><br/>
+  <span style="color:#009900;">2020年5月11日更新</span>丨<span style="color:#838383;">微信公众号：包哥万事屋丨微信baoge404</span><br/>
   <span><a href="">点击下载本地书签</a></span><br />
 </p>
 <!-- 头部提示内容 -->
